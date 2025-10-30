@@ -23,7 +23,7 @@
 
     ## 🧠 Design Notes
 
-    This project was conceived with clean architecture patterns in mind and tailored specifically for "ALIVE-Digitaldreamanalyzer" in the "digital_dream_analyzer" domain, implemented in Python.
+    This project was conceived with research-grade experimentation in mind and tailored specifically for "ALIVE-Digitaldreamanalyzer" in the "ai_consciousness" domain, implemented in Python.
 
     ## 📐 Architecture Sketch
 
@@ -40,36 +40,36 @@
 
     ## 🔎 Fingerprint
 
-    Project Fingerprint: `6db0729fd633` • Generated: 2025-10-30T03:23:24.620502
+    Project Fingerprint: `abe8115a2575` • Generated: 2025-10-30T04:30:52.363733
     
 
 ## Insights from Research
 
-- Video: Architectural CONCEPT DIAGRAMS in 10 Minutes! 🔥 #architecture
-- Video: Junior vs senior python developer 🐍 | #python #coding #programming #shorts  @Codingknowledge-yt
-- Video: The resume structure that got me my dream job | Wonsulting
-- Video: Drawing floor plans - the different stages
-- Repo idea:  Now we have become very big, Different from the original idea. Collect premium software in various
-- Repo idea: Model Context Protocol Servers
-- Repo idea: A curated list of awesome Machine Learning frameworks, libraries and software.
-- Repo idea: The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- Repo idea: Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with Web
+- Video: AI is helping architects visualize ideas in realtime
+- Video: The Anatomy of an AI Application: A Complete Architectural Breakdown
+- Video: Top 10 Ways to Present Architecture Projects With AI
+- Video: Introduction
+- Repo idea: This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- Repo idea: :books: List of awesome university courses for learning Computer Science!
+- Repo idea:  :books: Find your next book to read!
+- Repo idea: ChatGPT DAN, Jailbreaks prompt
+- Repo idea: SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 
 
 ## Inspiration Sources
 
-- https://www.youtube.com/watch?v=PUQv6vkMlOw
-- https://www.youtube.com/watch?v=PUQv6vkMlOw
-- https://www.youtube.com/watch?v=PUQv6vkMlOw
-- https://www.youtube.com/watch?v=PUQv6vkMlOw
+- https://www.youtube.com/watch?v=T25DXlk4nYI
+- https://www.youtube.com/watch?v=T25DXlk4nYI
+- https://www.youtube.com/watch?v=T25DXlk4nYI
+- https://www.youtube.com/watch?v=T25DXlk4nYI
 
 
 ## Related Repositories
 
-- jaywcjlove/awesome-mac ⭐ 92105 — https://github.com/jaywcjlove/awesome-mac
-- modelcontextprotocol/servers ⭐ 71540 — https://github.com/modelcontextprotocol/servers
-- josephmisiti/awesome-machine-learning ⭐ 70417 — https://github.com/josephmisiti/awesome-machine-learning
-- binhnguyennus/awesome-scalability ⭐ 66415 — https://github.com/binhnguyennus/awesome-scalability
-- AdrienTorris/awesome-blazor ⭐ 9204 — https://github.com/AdrienTorris/awesome-blazor
+- f/awesome-chatgpt-prompts ⭐ 135919 — https://github.com/f/awesome-chatgpt-prompts
+- prakhar1989/awesome-courses ⭐ 64045 — https://github.com/prakhar1989/awesome-courses
+- hackerkid/Mind-Expanding-Books ⭐ 12934 — https://github.com/hackerkid/Mind-Expanding-Books
+- 0xk1h0/ChatGPT_DAN ⭐ 10104 — https://github.com/0xk1h0/ChatGPT_DAN
+- NeoVertex1/SuperPrompt ⭐ 6283 — https://github.com/NeoVertex1/SuperPrompt
 
     
