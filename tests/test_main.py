@@ -6,7 +6,7 @@ Tests for ALIVE-Digitaldreamanalyzer
 import unittest
 from main import *
 
-class TestDigitaldreamanalyzer(unittest.TestCase):
+class TestAiconsciousness(unittest.TestCase):
     def setUp(self):
         """Set up test fixtures"""
         pass
